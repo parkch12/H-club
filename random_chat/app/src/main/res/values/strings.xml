@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">random_chat</string>
+
+    //-----information of spinner for Join2----------
+
+    <string-array name="email">
+        <item >naver.com</item>
+        <item >google.com</item>
+        <item >hanmail.net</item>
+        <item >nate.com</item>
+        <item >snu.ac.kr</item>
+        <item >hanyang.ac.kr</item>
+    </string-array>
+
+    //-----------------------------------------------
+
+
+    //-------facebook login--------------
+    <string name="facebook_app_id">1705355519721231</string>
+
+</resources>
